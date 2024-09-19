@@ -1,0 +1,20 @@
+{
+  "name": "projet_cypress",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "test",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "aotmation",
+    "framwork"
+  ],
+  "author": "ayoub",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
